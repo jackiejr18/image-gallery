@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'UAV';
+	src: url(Fonts/UAV-OSD-Mono.ttf) format(truetype);
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'UAV';
+	box-sizing: border-box;
+}
